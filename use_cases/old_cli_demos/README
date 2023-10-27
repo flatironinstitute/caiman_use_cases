@@ -1,0 +1,5 @@
+In Caiman 1.9.17 the CLI demos were rewritten to be standalone applications
+that take arguments from the commandline, removing their prior intent to be
+usable in a cell-oriented way in VSCode or Spyder.
+
+This folder maintains a copy of their pre-rewrite form.
